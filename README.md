@@ -30,5 +30,6 @@ I work mainly with SQL and Python, and I commit my practice here as I learn. My 
 
 ## Contact
 
-LinkedIn — linkedin.com/in/siddharthkumarx
-Email — [siddharth.kumar.career@gmail.com]
+LinkedIn — [siddharthkumarx](https://www.linkedin.com/in/siddharthkumarx/)
+
+Email — siddharth.kumar.career@gmail.com
