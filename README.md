@@ -26,14 +26,6 @@ You always talk to me, from the first message to every delivery. I only collect 
 | Wait between requests | Less load on the site, so fewer blocks |
 | Fix the scraper when a site changes | Your feed keeps arriving on schedule |
 
-<!-- PROJECTS: when your first project ships, delete this line and the closing line below the table, then fill in the brackets. One row per project, newest first.
-## Projects
-
-| Project | The problem | Result |
-|:---|:---|:---|
-| [[Project name]](https://siddharthkumar.com/work/[project-name]/) | [The client's problem, in one line] | [N] products from [N] sites, [N] records lost |
--->
-
 ## Tools
 
 Python · Playwright · requests · BeautifulSoup · SQL · Google Sheets
