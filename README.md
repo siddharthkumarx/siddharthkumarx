@@ -1,4 +1,4 @@
-<a href="https://siddharthkumar.com"><img src="header.svg" width="100%" alt="Siddharth Kumar, e-commerce price and availability data. Example: a product page turned into a clean table of product, price, stock status and time checked."></a>
+<a href="https://siddharthkumar.com"><img src="header.svg" width="100%" alt="Siddharth Kumar, e-commerce price and availability data. Data from the shops you track flows into a scraper that fills your sheet every day. When a site changes, the scraper is fixed and the data keeps coming."></a>
 
 I build and maintain web scrapers for e-commerce price and availability data. You get prices and in-stock status from the sites you track, daily or weekly, as a Google Sheet or CSV file.
 
