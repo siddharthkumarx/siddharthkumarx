@@ -1,37 +1,49 @@
-<a href="https://siddharthkumar.com"><img src="header.svg" width="100%" alt="Siddharth Kumar, e-commerce price and availability data. Data from the shops you track flows into a scraper that fills your sheet every day. When a site changes, the scraper is fixed and the data keeps coming."></a>
+<a href="https://steadydata.co"><img src="header.svg" width="100%" alt="Siddharth Kumar, Founder of SteadyData. SteadyData monitors competitor prices, stock and catalog changes for online stores: a price change on a competitor store page is checked and arrives as a clean, verified what-changed report row."></a>
 
-I build and maintain web scrapers for e-commerce price and availability data. You get prices and in-stock status from the sites you track, daily or weekly, as a Google Sheet or CSV file.
+Siddharth Kumar is the founder of SteadyData, an e-commerce data service that monitors competitor prices, stock and catalog changes for online stores and sends verified change reports daily or weekly.
 
-Sites change and scrapers break. When that happens, I fix it. That's part of the price, not an extra.
+**[steadydata.co](https://steadydata.co)** · **[Free sample](https://steadydata.co/contact/)** · [siddharthkumar.com](https://siddharthkumar.com) · [LinkedIn](https://www.linkedin.com/in/siddharthkumarx/) · [hello@steadydata.co](mailto:hello@steadydata.co)
 
-**Work with me:** [siddharthkumar.com](https://siddharthkumar.com) · [Get a free sample](mailto:hello@siddharthkumar.com?subject=Free%20sample%20request)
+Price monitoring · competitor price tracking · stock monitoring · e-commerce data · web scraping · data extraction
 
-## How it works
+## What SteadyData does
 
-1. You send the sites and the data you need.
-2. I send a free sample of 20 to 50 real rows, so you can check the data before you pay.
-3. You get a fixed price: per month for a regular feed, or once for a one-time file.
-4. Your data arrives on schedule, with a short note on what changed since the last run.
+- Tracks competitor prices, sales, stock and catalog changes on the online stores you name.
+- Sends a verified change report daily or weekly: Excel/CSV + PDF, or Google Sheets. Fixes are included when a site changes.
+- Public data only. Start with a free sample of up to 1,000 rows within 48 hours.
+- Plans from $99/month: [steadydata.co/pricing](https://steadydata.co/pricing/).
 
-You always talk to me, from the first message to every delivery. I only collect public data: no logins and no personal data.
+## Live proof
 
-## How I keep your data reliable
+| Project | What it does | Proof |
+|:---|:---|:---|
+| **[ecommerce-price-monitor](https://github.com/siddharthkumarx/ecommerce-price-monitor)** | Daily prices, sales and stock from 25 US online stores | As of 20 Nov 2026: 11,767 prices in the latest run · 17 of 17 daily runs delivered · second-source spot check, one product per store: 25 of 25 matched · [Dashboard](https://siddharthkumar.com/ecommerce-price-monitor/) · [Repo](https://github.com/siddharthkumarx/ecommerce-price-monitor) |
+| **[job-postings-pipeline](https://github.com/siddharthkumarx/job-postings-pipeline)** | Daily open jobs at 1,500 US tech companies | As of 20 Nov 2026: 64,204 open jobs · 1,493 of 1,500 job boards read · second-source spot check of 30 random jobs: 30 of 30 matched · [Dashboard](https://siddharthkumar.com/job-postings-pipeline/) · [Repo](https://github.com/siddharthkumarx/job-postings-pipeline) |
 
-| What I do | Why it matters to you |
+## Projects
+
+| Project | In plain words |
 |:---|:---|
-| Read the site's own data feed when there is one | Faster, and less likely to break when the page design changes |
-| Go through every results page | You get the full catalogue, not just page 1 |
-| Retry failed requests | One network error doesn't leave gaps in your data |
-| Keep going when a product has a missing field | One odd listing doesn't stop the whole run |
-| Wait between requests | Less load on the site, so fewer blocks |
-| Fix the scraper when a site changes | Your feed keeps arriving on schedule |
+| [ecommerce-price-monitor](https://github.com/siddharthkumarx/ecommerce-price-monitor) | Daily prices, sales and stock from 25 US online stores, as a spreadsheet and a live dashboard. |
+| [job-postings-pipeline](https://github.com/siddharthkumarx/job-postings-pipeline) | Every open job at 1,500 US tech companies, collected daily into one clean table. |
+| [cross-store-price-comparison](https://github.com/siddharthkumarx/cross-store-price-comparison) | Prices for the same products compared across stores. In progress, built in public. |
+| [scrapeplanner](https://github.com/siddharthkumarx/scrapeplanner) | Open-source command-line tool: point it at a URL and it reports the cheapest polite way to collect that site's data. |
+| [scrapewatch](https://github.com/siddharthkumarx/scrapewatch) | A health and cost monitor for any web scraper. Work in progress. |
+
+## How the data stays reliable
+
+- Every row is validated, and each run re-reads a sample from a second source.
+- Doubtful values are held back, never guessed.
+- Nothing goes silently missing: a page that could not be read is marked as not updated.
+- Polite collection: public pages only, robots.txt respected.
+- Fixes are included when a site changes.
 
 ## Tools
 
-Python · Playwright · requests · BeautifulSoup · SQL · Google Sheets
+Python (async httpx) · Playwright · PostgreSQL · DuckDB · Docker Compose · Linux VPS · GitHub Actions CI · Cloudflare R2 · Google Sheets API · webhooks
 
 ## Contact
 
-- Email: [hello@siddharthkumar.com](mailto:hello@siddharthkumar.com)
-- LinkedIn: [linkedin.com/in/siddharthkumarx](https://www.linkedin.com/in/siddharthkumarx/)
-- Time zone: India, IST (UTC+5:30)
+[hello@steadydata.co](mailto:hello@steadydata.co) · [steadydata.co](https://steadydata.co) · [LinkedIn](https://www.linkedin.com/in/siddharthkumarx/) · IST (UTC+5:30)
+
+No sales calls needed. Everything by email.
