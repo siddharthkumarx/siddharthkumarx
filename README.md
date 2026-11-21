@@ -2,7 +2,7 @@
 
 Siddharth Kumar is the founder of SteadyData, an e-commerce data service that monitors competitor prices, stock and catalog changes for online stores and sends verified change reports daily or weekly.
 
-**[steadydata.co](https://steadydata.co)** · **[Free sample](https://steadydata.co/contact/)** · [siddharthkumar.com](https://siddharthkumar.com) · [LinkedIn](https://www.linkedin.com/in/siddharthkumarx/) · [hello@steadydata.co](mailto:hello@steadydata.co)
+**[steadydata.co](https://steadydata.co)** · **[Free sample](https://steadydata.co/contact/)** · [siddharthkumar.com](https://siddharthkumar.com) · [LinkedIn](https://www.linkedin.com/in/siddharthkumarx/) · [siddharth@steadydata.co](mailto:siddharth@steadydata.co)
 
 Price monitoring · competitor price tracking · stock monitoring · e-commerce data · web scraping · data extraction
 
@@ -44,6 +44,6 @@ Python (async httpx) · Playwright · PostgreSQL · DuckDB · Docker Compose · 
 
 ## Contact
 
-[hello@steadydata.co](mailto:hello@steadydata.co) · [steadydata.co](https://steadydata.co) · [LinkedIn](https://www.linkedin.com/in/siddharthkumarx/) · IST (UTC+5:30)
+[siddharth@steadydata.co](mailto:siddharth@steadydata.co) · [steadydata.co](https://steadydata.co) · [LinkedIn](https://www.linkedin.com/in/siddharthkumarx/) · IST (UTC+5:30)
 
 No sales calls needed. Everything by email.
