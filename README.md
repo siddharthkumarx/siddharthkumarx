@@ -2,7 +2,7 @@
 
 Siddharth Kumar is the founder of SteadyData, an e-commerce data service that monitors competitor prices, stock and catalog changes for online stores and sends verified change reports daily or weekly.
 
-**[steadydata.co](https://steadydata.co)** · **[Free sample](https://steadydata.co/contact/)** · [siddharthkumar.com](https://siddharthkumar.com) · [LinkedIn](https://www.linkedin.com/in/siddharthkumarx/) · [siddharth@steadydata.co](mailto:siddharth@steadydata.co)
+**[steadydata.co](https://steadydata.co)** · [siddharthkumar.com](https://siddharthkumar.com) · [LinkedIn](https://www.linkedin.com/in/siddharthkumarx/) · [siddharth@steadydata.co](mailto:siddharth@steadydata.co)
 
 Price monitoring · competitor price tracking · stock monitoring · e-commerce data · web scraping · data extraction
 
@@ -10,15 +10,16 @@ Price monitoring · competitor price tracking · stock monitoring · e-commerce 
 
 - Tracks competitor prices, sales, stock and catalog changes on the online stores you name.
 - Sends a verified change report daily or weekly: Excel/CSV + PDF, or Google Sheets. Fixes are included when a site changes.
-- Public data only. Start with a free sample of up to 1,000 rows within 48 hours.
-- Plans from $99/month: [steadydata.co/pricing](https://steadydata.co/pricing/).
+- Public data only.
 
 ## Live proof
 
 | Project | What it does | Proof |
 |:---|:---|:---|
-| **[ecommerce-price-monitor](https://github.com/siddharthkumarx/ecommerce-price-monitor)** | Daily prices, sales and stock from 25 US online stores | As of 20 Nov 2026: 11,767 prices in the latest run · 17 of 17 daily runs delivered · second-source spot check, one product per store: 25 of 25 matched · [Dashboard](https://siddharthkumar.com/ecommerce-price-monitor/) · [Repo](https://github.com/siddharthkumarx/ecommerce-price-monitor) |
+| **[ecommerce-price-monitor](https://github.com/siddharthkumarx/ecommerce-price-monitor)** | Daily prices, sales and stock from 25 US online stores | [![Rows in the latest run](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/siddharthkumarx/ecommerce-price-monitor/main/data/badges/rows-today.json)](https://github.com/siddharthkumarx/ecommerce-price-monitor/blob/main/data/latest/snapshot.csv) [![Runs delivered](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/siddharthkumarx/ecommerce-price-monitor/main/data/status.json&query=%24.schedule.delivered&label=runs%20delivered&color=0E8A7D)](https://github.com/siddharthkumarx/ecommerce-price-monitor/blob/main/data/status.json) [![On time since 22 Nov](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/siddharthkumarx/ecommerce-price-monitor/main/data/badges/on-time-runs.json)](https://github.com/siddharthkumarx/ecommerce-price-monitor/blob/main/data/status.json) · [Dashboard](https://siddharthkumar.com/ecommerce-price-monitor/) · [Repo](https://github.com/siddharthkumarx/ecommerce-price-monitor) |
 | **[job-postings-pipeline](https://github.com/siddharthkumarx/job-postings-pipeline)** | Daily open jobs at 1,500 US tech companies | As of 20 Nov 2026: 64,204 open jobs · 1,493 of 1,500 job boards read · second-source spot check of 30 random jobs: 30 of 30 matched · [Dashboard](https://siddharthkumar.com/job-postings-pipeline/) · [Repo](https://github.com/siddharthkumarx/job-postings-pipeline) |
+
+As of 22 Nov 2026, ecommerce-price-monitor read 11,703 rows in its latest run, delivered 19 of 19 due daily runs, started 1 of 1 runs on time since 22 Nov, and matched 25 of 25 sample prices (one per store) against a second source.
 
 ## Projects
 
@@ -40,7 +41,7 @@ Price monitoring · competitor price tracking · stock monitoring · e-commerce 
 
 ## Tools
 
-Python (async httpx) · Playwright · PostgreSQL · DuckDB · Docker Compose · Linux VPS · GitHub Actions CI · Cloudflare R2 · Google Sheets API · webhooks
+Python (async httpx) · Playwright · PostgreSQL · DuckDB · Docker Compose · Linux VPS · GitHub Actions CI · Cloudflare R2 · Google Sheets API · webhooks · Published Python package: [scrapeplanner (PyPI)](https://pypi.org/project/scrapeplanner/)
 
 ## Contact
 
