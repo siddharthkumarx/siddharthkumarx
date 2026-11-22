@@ -10,6 +10,7 @@ Price monitoring · competitor price tracking · stock monitoring · e-commerce 
 
 - Tracks competitor prices, sales, stock and catalog changes on the online stores you name.
 - Sends a verified change report daily or weekly: Excel/CSV + PDF, or Google Sheets. Fixes are included when a site changes.
+- Delivered as CSV, Excel, JSON, SQL, SQLite, Parquet, Google Sheets, email or webhook.
 - Public data only.
 
 ## Live proof
